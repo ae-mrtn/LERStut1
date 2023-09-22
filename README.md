@@ -2,6 +2,4 @@
 LERS github tutorial 1
 Line added in RStudio
 Line added in Github
-
 Test branching
-New stuff in branch
